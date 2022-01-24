@@ -1,0 +1,172 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Alata', sans-serif;
+}
+
+body {
+    margin:0px;
+    background-color: whitesmoke;
+
+}
+
+.header{
+    background-color: ;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-size: 29px;
+}
+
+.underrubrik {
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.topnav{
+    background-color: none;
+    padding: 20px;
+    text-align: center;
+}
+
+.topnav a{
+    color: black;
+    padding: 50px;
+    font-size: 24px;
+}
+
+.topnav a:hover{
+    color:blue;
+}
+
+img {
+    border-radius: 05%;
+    box-shadow: 0px 0px 20px black;
+    width: 300px;
+    height: 700px;
+  }
+
+  button {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px;
+  }
+
+  button:hover {
+    background-color: white;
+    color: black; 
+    }
+
+.content{
+    display:flex;
+    padding: 10px;
+    background-color: #FFE175;
+    color: #093F5E;
+    text-align: center;
+}
+
+  .cont-child-img{
+    flex: 1;
+    padding: 10px;
+    margin-left: 170px;
+    
+}
+
+.cont-child1{
+    flex: 1;
+    padding: 10px;
+    font-size: 40px;
+    margin-right: 200px;
+    margin-top: 60px;
+}
+
+.content2 {
+    display:flex;
+    padding: 10px;
+    background-color: #298484;
+    color: white;
+    text-align: center;
+}
+
+.cont-child-img2{
+    flex: 1;
+    padding: 10px;
+    margin-left: 170px;
+}
+
+.cont-child2{
+    flex: 1;
+    padding: 10px;
+    font-size: 40px;
+    margin-right: 200px;
+    margin-top: 60px;
+}
+
+.content3 {
+    display:flex;
+    padding: 10px;
+    background-color: beige;
+    color: black;
+    text-align: center;
+}
+
+.cont-child-img3{
+    flex: 1;
+    padding: 10px;
+    margin-left: 170px;
+}
+
+.cont-child3{
+    flex: 1;
+    padding: 10px;
+    font-size: 40px;
+    margin-right: 200px;
+    margin-top: 60px;
+}
+
+form {
+    margin-left:400px;
+    padding: 10px;
+    height: 100px;
+    
+}
+  
+#msg{
+    height: 200px;
+    width: 300px;
+}
+
+.contact {
+   margin-left:800px;
+   font-size: 15px;
+}
+
+#fname, #email, #msg {
+    border: 1px solid black;
+    border-radius: 20px;
+
+}
+
+#fname, #email {
+    width: 300px;
+    height: 50px;
+}
+
+.send {
+}
+
+.present {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: lighter;
+    width: 600px;
+    margin-top:50px;
+    margin-left: 400px;
+}
