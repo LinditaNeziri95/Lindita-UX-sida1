@@ -133,8 +133,7 @@ img {
 }
 
 form {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 400px;
     padding: 10px;
     height: 100px;
     margin-bottom: 50px;
@@ -147,7 +146,7 @@ form {
 }
 
 .contact {
-   margin-left:800px;
+   margin-bottom: 50px;
    font-size: 15px;
 }
 
@@ -171,7 +170,6 @@ form {
     font-weight: lighter;
     width: 600px;
     margin-top:50px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 400px;
     margin-bottom: 50px;
 }
