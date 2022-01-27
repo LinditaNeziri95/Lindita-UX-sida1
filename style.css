@@ -133,7 +133,7 @@ img {
 }
 
 form {
-    margin-left: 400px;
+    align-items: center;
     padding: 10px;
     height: 100px;
     margin-bottom: 50px;
@@ -165,7 +165,7 @@ form {
 }
 
 .present {
-    font-size: 20px;
+    text-align: center;
     font-style: italic;
     font-weight: lighter;
     width: 600px;
